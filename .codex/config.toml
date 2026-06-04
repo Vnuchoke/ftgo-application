@@ -21,8 +21,6 @@ enabled = false
 enabled = false
 [mcp_servers.datagrip-index]
 enabled = false
-[mcp_servers.gitlab-review-mcp]
-enabled = false
 [mcp_servers.telemed-api-laravel-boost]
 enabled = false
 [mcp_servers.telemed-admin-api-laravel-boost]
