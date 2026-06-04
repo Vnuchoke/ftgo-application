@@ -1,0 +1,33 @@
+#:schema https://developers.openai.com/codex/config-schema.json
+[mcp_servers.intellij-index]
+enabled = false
+[mcp_servers.android-studio-index]
+enabled = false
+[mcp_servers.pycharm-index]
+enabled = false
+[mcp_servers.webstorm-index]
+enabled = false
+[mcp_servers.goland-index]
+enabled = false
+[mcp_servers.phpstorm-index]
+enabled = true
+[mcp_servers.phpstorm]
+enabled = true
+[mcp_servers.rubymine-index]
+enabled = false
+[mcp_servers.clion-index]
+enabled = false
+[mcp_servers.rustrover-index]
+enabled = false
+[mcp_servers.datagrip-index]
+enabled = false
+[mcp_servers.gitlab-review-mcp]
+enabled = false
+[mcp_servers.telemed-api-laravel-boost]
+enabled = false
+[mcp_servers.telemed-admin-api-laravel-boost]
+enabled = false
+[mcp_servers.pipeline-admin-api-laravel-boost]
+enabled = false
+[mcp_servers.pipeline-api-laravel-boost]
+enabled = false
